@@ -6,7 +6,7 @@ Gradle artifacts are located at `build/libs/`.
 
 ## Using IntelliJ IDEA
 
-* Open repository in IntelliJ IDEA.
+* Open repository in IntelliJ IDE.
 * Run / Debug project.
 
 To build artifacts, execute Gradle `shadowJar` task.
